@@ -1,0 +1,10 @@
+A company has different departments.Company is described by cno, cname . Each department is defined by dno , dname , dloc. There are many projects under each department. Projects are identified by pname , ploc , dnum. There are employees of each department. employees are identified by ename , addr , dno , pno. each employee may have some projects under him.
+
+
+A company contain different department data, the department is identified by dno , dname , dloc . There are n number of project under the control of a given department. Each project is described by pno , pname , ploc . The employee is defined by eno , ename , address , salary . Each employee works for a given department . An employee can even work for different project of different department with different hours . There are some dependent information of the employee. Each dependent is described by cname , rel , dob.
+
+
+
+
+In an institute there are number of student is described by sno , sname and scourse . The students are enrolled for different courses is described by cno , cname . Each teacher is described by tno , tname . The teacher teaches a number of courses . A student have a teacher as their mentor . Each student can take as many of different course as they want .
+
